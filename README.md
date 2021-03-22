@@ -1,4 +1,6 @@
-### Hi there 👋
+### Jaime Avendaño
+
+Hi, I'm a developer looking to transition into a Data Science role. 
 
 <!--
 **javendano585/javendano585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
