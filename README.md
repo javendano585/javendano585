@@ -1,6 +1,6 @@
 ### Jaime Avendaño
 
-Hi, I'm a programmer analyst looking to transition into a Data Science role. 
+Hi, I'm a programmer analyst with over a decade of experience working with large datasets.
 
 <!--
 **javendano585/javendano585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
